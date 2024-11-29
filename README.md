@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ducy1516
 - 💞️ From Hanoi, Vietnam 
 - 👀 I’m interested in doing Math, playing e-sport: Valorant & Arena of Valor
-- 🌱 I’m currently learning IT and Math subject
+- 🌱 I’m currently learning Data Science Major in USTH
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Capricorn January, love math guy, part-time mentor Math 
 
